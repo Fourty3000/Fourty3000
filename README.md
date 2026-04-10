@@ -20,11 +20,9 @@
 
 <div align="center">
 
-<a href="#"><img src="https://cdn.simpleicons.org/googlechrome/7c3aed" width="40" alt="Website" /></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Fourty3000"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp; <a href="#"><img src="https://cdn.simpleicons.org/youtube/ff0000" width="40" alt="YouTube" /></a> &nbsp;&nbsp;&nbsp; <a href="#"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord" /></a> &nbsp;&nbsp;&nbsp; <a href="https://gist.github.com/Fourty3000"><img src="https://cdn.simpleicons.org/git/ffffff" width="40" alt="Gists" /></a> &nbsp;&nbsp;&nbsp; <a href="#"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" /></a> &nbsp;&nbsp;&nbsp; <a href="#"><img src="https://cdn.simpleicons.org/twitch/9146ff" width="40" alt="Twitch" /></a>
+<a href="https://eminium.ovh"><img src="https://cdn.simpleicons.org/googlechrome/7c3aed" width="40" alt="Website" /></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Fourty3000"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp; <a href="https://youtube.com/@Fourty3000"><img src="https://cdn.simpleicons.org/youtube/ff0000" width="40" alt="YouTube" /></a> &nbsp;&nbsp;&nbsp; <a href="https://discord.com/users/742343474921078814"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord" /></a> &nbsp;&nbsp;&nbsp; <a href="https://gist.github.com/Fourty3000"><img src="https://cdn.simpleicons.org/git/ffffff" width="40" alt="Gists" /></a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/Fourty3000"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" /></a> &nbsp;&nbsp;&nbsp; <a href="https://twitch.tv/Fourty3000"><img src="https://cdn.simpleicons.org/twitch/9146ff" width="40" alt="Twitch" /></a>
 
 <br>
-
-<a href="#-about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="12" /> About Me</a> &nbsp;·&nbsp; <a href="#%EF%B8%8F-tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="12" /> Tech Stack</a> &nbsp;·&nbsp; <a href="#-github-stats"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="12" /> Stats</a> &nbsp;·&nbsp; <a href="#-repo-analytics"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="12" /> Analytics</a> &nbsp;·&nbsp; <a href="#-my-repositories"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="12" /> Library</a> &nbsp;·&nbsp; <a href="https://gist.github.com/Fourty3000"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="12" /> Gists</a>
 
 </div>
 
@@ -68,7 +66,7 @@ me.details();
 <tr>
 <td width="45%">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/724847846897221642?showDisplayName=true)](https://discord.com/users/724847846897221642)
+[![Discord Presence](https://lanyard.cnrad.dev/api/742343474921078814?showDisplayName=true)](https://discord.com/users/742343474921078814)
 
 </td>
 <td width="45%">
