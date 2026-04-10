@@ -248,9 +248,7 @@ Independent Developer passionate about building things with code.<br>
 
 <div align="center">
 
-<img src="https://counter.seku.su/cmoe?name=Fourty3000&theme=r34" alt="Visitors" />
-
-<br/><br/>
+<br/>
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
 
