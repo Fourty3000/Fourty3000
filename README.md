@@ -66,7 +66,7 @@ me.details();
 <tr>
 <td width="45%">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/742343474921078814?showDisplayName=true)](https://discord.com/users/742343474921078814)
+[![Discord Presence](https://lanyard.cnrad.dev/api/742343474921078814)](https://discord.com/users/742343474921078814)
 
 </td>
 <td width="45%">
@@ -189,8 +189,6 @@ Independent Developer passionate about building things with code.<br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fourty3000&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fox3000foxy&theme=tokyonight" alt="Profile Details" />
-
 </div>
 
 <!-- ---
@@ -198,9 +196,6 @@ Independent Developer passionate about building things with code.<br>
 ## 📈 Contribution Graph
 
 <div align="center">
-
-[![fox3000foxy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fox3000foxy&theme=tokyo-night&hide_border=true&area=true)](https://github.com/fox3000foxy)
-
 </div> -->
 
 <br/>
@@ -246,216 +241,6 @@ Independent Developer passionate about building things with code.<br>
 <br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📚 THE LIBRARY — REPOSITORY SHELVES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h1>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;The Fox Library
-</h1>
-
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=16&pause=2000&color=C9A96E&center=true&vCenter=true&width=450&lines=Browse+the+shelves...+every+repo+has+a+story+📖" alt="Library" /> -->
-
-<br/>
-
-<strong style="color:gray">HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!</strong>
-
-</div>
-
-<!-- <br/> -->
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  ⭐ MY FAVORITES — HAND-PICKED GEMS                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<!-- <table><tr><td align="center"> -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18" /> &nbsp;My Favorites — <i>Hand-Picked Gems</i></h3>
-<!-- </td></tr></table> -->
-</div>
-
-<div align="center">
-
-[![2gf](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=2gf&theme=tokyonight)](https://github.com/fox3000foxy/2gf) [![bareiron](https://github-readme-stats-fast.vercel.app/api/pin/?username=p2r3&repo=bareiron&theme=tokyonight)](https://github.com/p2r3/bareiron) [![email-autoreply](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=email-autoreply&theme=tokyonight)](https://github.com/fox3000foxy/email-autoreply) [![foxyspoofers](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=foxyspoofers&theme=tokyonight)](https://github.com/fox3000foxy/foxyspoofers) [![tor-fetch](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=tor-fetch&theme=tokyonight)](https://github.com/fox3000foxy/tor-fetch) [![hologram-smart-miku](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=hologram-smart-miku&theme=tokyonight)](https://github.com/fox3000foxy/hologram-smart-miku) [![ImmersiveManhunt](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=ImmersiveManhunt&theme=tokyonight)](https://github.com/fox3000foxy/ImmersiveManhunt) [![OVPN-Configs-scraper](https://github-readme-stats-fast.vercel.app/api/pin/?username=Croissant-API&repo=OVPN-Configs-scraper&theme=tokyonight)](https://github.com/Croissant-API/OVPN-Configs-scraper) [![redondancy-systems](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=redondancy-systems&theme=tokyonight)](https://github.com/fox3000foxy/redondancy-systems) [![VPN-GUI](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=VPN-GUI&theme=tokyonight)](https://github.com/fox3000foxy/VPN-GUI) [![weights.gg-api](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=weights.gg-api&theme=tokyonight)](https://github.com/fox3000foxy/weights.gg-api) [![nausicaa-game.github.io](https://github-readme-stats-fast.vercel.app/api/pin/?username=Nausicaa-game&repo=nausicaa-game.github.io&theme=tokyonight)](https://github.com/Nausicaa-game/nausicaa-game.github.io) [![SMPsystm](https://github-readme-stats-fast.vercel.app/api/pin/?username=Eminium-Games&repo=SMPsystm&theme=tokyonight)](https://github.com/Eminium-Games/SMPsystm) [![DungeonsInstances](https://github-readme-stats-fast.vercel.app/api/pin/?username=Eminium-Games&repo=DungeonsInstances&theme=tokyonight)](https://github.com/Eminium-Games/DungeonsInstances) [![AutoUnloadWorlds](https://github-readme-stats-fast.vercel.app/api/pin/?username=Eminium-Games&repo=AutoUnloadWorlds&theme=tokyonight)](https://github.com/Eminium-Games/AutoUnloadWorlds) [![deploy-from-private-to-github-pages](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=deploy-from-private-to-github-pages&theme=tokyonight)](https://github.com/fox3000foxy/deploy-from-private-to-github-pages) [![FakeData-npm](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=FakeData-npm&theme=tokyonight)](https://github.com/fox3000foxy/FakeData-npm)[![eleven-gen](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=eleven-gen&theme=tokyonight)](https://github.com/fox3000foxy/eleven-gen)
-
-</div>
-
-<br/>
-
-<div align="center">
-<h3>&nbsp;New Arrivals</h3>
-</div>
-
-<div align="center">
-
-[![fox3000foxy.github.io](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=fox3000foxy.github.io&theme=tokyonight)](https://github.com/fox3000foxy/fox3000foxy.github.io) [![konosuba-rpg](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=konosuba-rpg&theme=tokyonight)](https://github.com/fox3000foxy/konosuba-rpg) [![fox3000foxy](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=fox3000foxy&theme=tokyonight)](https://github.com/fox3000foxy/fox3000foxy) [![potential-octo-succotash](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=potential-octo-succotash&theme=tokyonight)](https://github.com/fox3000foxy/potential-octo-succotash) [![SandBox-env](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=SandBox-env&theme=tokyonight)](https://github.com/fox3000foxy/SandBox-env) [![wasmfs](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=wasmfs&theme=tokyonight)](https://github.com/fox3000foxy/wasmfs) [![ubuntu-fox](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=ubuntu-fox&theme=tokyonight)](https://github.com/fox3000foxy/ubuntu-fox) [![fox3000foxy.github.io-legacy](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=fox3000foxy.github.io-legacy&theme=tokyonight)](https://github.com/fox3000foxy/fox3000foxy.github.io-legacy) [![warcraft-source-equalizer](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=warcraft-source-equalizer&theme=tokyonight)](https://github.com/fox3000foxy/warcraft-source-equalizer) [![test-github-action-vnc](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=test-github-action-vnc&theme=tokyonight)](https://github.com/fox3000foxy/test-github-action-vnc) [![repo-to-vps](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=repo-to-vps&theme=tokyonight)](https://github.com/fox3000foxy/repo-to-vps) [![selfrunner](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=selfrunner&theme=tokyonight)](https://github.com/fox3000foxy/selfrunner) [![weebudesu.fox3000foxy.com](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=weebudesu.fox3000foxy.com&theme=tokyonight)](https://github.com/fox3000foxy/weebudesu.fox3000foxy.com) [![foxyagency-static-cache](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=foxyagency-static-cache&theme=tokyonight)](https://github.com/fox3000foxy/foxyagency-static-cache) [![main-website](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=main-website&theme=tokyonight)](https://github.com/fox3000foxy/main-website) [![furry-femboys.com](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=furry-femboys.com&theme=tokyonight)](https://github.com/fox3000foxy/furry-femboys.com) [![OVPN-Configs-scraper-old](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=OVPN-Configs-scraper-old&theme=tokyonight)](https://github.com/fox3000foxy/OVPN-Configs-scraper-old)
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  🏆  TOP SHELF — SHOWCASE (full width, premium display)    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<!-- <table><tr><td align="center"> -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="18" /> Top Shelf — <i>Most Starred</i></h3>
-<!-- </td></tr></table> -->
-</div>
-
-<div align="center">
-
-[![flux-discord-bot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=flux-discord-bot&theme=tokyonight)](https://github.com/fox3000foxy/flux-discord-bot) [![virtualcam-extension](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=virtualcam-extension&theme=tokyonight)](https://github.com/fox3000foxy/virtualcam-extension)
-
-</div>
-
-<!-- <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div> -->
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  SHELF 2 — Games & Discord                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="18" /> Games & Minecraft — 21 books</h3>
-
-<div align="center">
-
-[![online_mario](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=online_mario&theme=tokyonight)](https://github.com/fox3000foxy/online_mario) [![mario](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=mario&theme=tokyonight)](https://github.com/fox3000foxy/mario) [![superMarioMaker](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=superMarioMaker&theme=tokyonight)](https://github.com/fox3000foxy/superMarioMaker) [![MouseParty](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=MouseParty&theme=tokyonight)](https://github.com/fox3000foxy/MouseParty) [![ImmersiveSMP](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=ImmersiveSMP&theme=tokyonight)](https://github.com/fox3000foxy/ImmersiveSMP) [![FPS2](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=FPS2&theme=tokyonight)](https://github.com/fox3000foxy/FPS2) [![isometrifier](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=isometrifier&theme=tokyonight)](https://github.com/fox3000foxy/isometrifier) [![jal-server](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=jal-server&theme=tokyonight)](https://github.com/fox3000foxy/jal-server) [![web-minecraft](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=web-minecraft&theme=tokyonight)](https://github.com/fox3000foxy/web-minecraft) [![webmc](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=webmc&theme=tokyonight)](https://github.com/fox3000foxy/webmc) [![webminecraft.github.io](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=webminecraft.github.io&theme=tokyonight)](https://github.com/fox3000foxy/webminecraft.github.io) [![MinecraftInWeb](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=MinecraftInWeb&theme=tokyonight)](https://github.com/fox3000foxy/MinecraftInWeb) [![MinecraftNodeJS](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=MinecraftNodeJS&theme=tokyonight)](https://github.com/fox3000foxy/MinecraftNodeJS) [![MCDash](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=MCDash&theme=tokyonight)](https://github.com/fox3000foxy/MCDash) [![MCGalaxyServer](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=MCGalaxyServer&theme=tokyonight)](https://github.com/fox3000foxy/MCGalaxyServer) [![WebsiteForMCServer](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=WebsiteForMCServer&theme=tokyonight)](https://github.com/fox3000foxy/WebsiteForMCServer) [![repacked](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=repacked&theme=tokyonight)](https://github.com/fox3000foxy/repacked) [![Repacked-1](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Repacked-1&theme=tokyonight)](https://github.com/fox3000foxy/Repacked-1) [![Multiverse-Inventories](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Multiverse-Inventories&theme=tokyonight)](https://github.com/fox3000foxy/Multiverse-Inventories) [![Minetest_S-Nanny](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Minetest_S-Nanny&theme=tokyonight)](https://github.com/fox3000foxy/Minetest_S-Nanny) [![Minetest_S-Nanny_mod](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Minetest_S-Nanny_mod&theme=tokyonight)](https://github.com/fox3000foxy/Minetest_S-Nanny_mod)
-
-</div>
-
-<div align="center">
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" /> Discord Bots — 15 books</h3>
-
-<div align="center">
-
-[![Discord-Aura](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Discord-Aura&theme=tokyonight)](https://github.com/fox3000foxy/Discord-Aura) [![TalkForBot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=TalkForBot&theme=tokyonight)](https://github.com/fox3000foxy/TalkForBot) [![DiscordMovieMaker](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=DiscordMovieMaker&theme=tokyonight)](https://github.com/fox3000foxy/DiscordMovieMaker) [![DiscordMC_IRC](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=DiscordMC_IRC&theme=tokyonight)](https://github.com/fox3000foxy/DiscordMC_IRC) [![DiscordCli](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=DiscordCli&theme=tokyonight)](https://github.com/fox3000foxy/DiscordCli) [![Discord-Console-hacks](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Discord-Console-hacks&theme=tokyonight)](https://github.com/fox3000foxy/Discord-Console-hacks) [![Vencord](https://github-readme-stats-fast.vercel.app/api/pin/?username=Vendicated&repo=Vencord&theme=tokyonight)](https://github.com/Vendicated/Vencord) [![CustomVoiceFilterPlugin](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=CustomVoiceFilterPlugin&theme=tokyonight)](https://github.com/fox3000foxy/CustomVoiceFilterPlugin) [![completeDiscordQuest](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=completeDiscordQuest&theme=tokyonight)](https://github.com/fox3000foxy/completeDiscordQuest) [![decorbeta](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=decorbeta&theme=tokyonight)](https://github.com/fox3000foxy/decorbeta) [![peanuts-bot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=peanuts-bot&theme=tokyonight)](https://github.com/fox3000foxy/peanuts-bot) [![MaceBot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=MaceBot&theme=tokyonight)](https://github.com/fox3000foxy/MaceBot) [![forms2roles](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=forms2roles&theme=tokyonight)](https://github.com/fox3000foxy/forms2roles) [![fakesinvites](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=fakesinvites&theme=tokyonight)](https://github.com/fox3000foxy/fakesinvites) [![RVC-Discord-Bot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=RVC-Discord-Bot&theme=tokyonight)](https://github.com/fox3000foxy/RVC-Discord-Bot)
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  SHELF 3 — Web & Tools                                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="18" /> Web & Sites — 12 books</h3>
-
-<div align="center">
-
-[![actu-esport](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=actu-esport&theme=tokyonight)](https://github.com/fox3000foxy/actu-esport) [![belle-delphine-site](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=belle-delphine-site&theme=tokyonight)](https://github.com/fox3000foxy/belle-delphine-site) [![itsrealfortune-site](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=itsrealfortune-site&theme=tokyonight)](https://github.com/fox3000foxy/itsrealfortune-site) [![theupsilongirl-cloudflare-pages](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=theupsilongirl-cloudflare-pages&theme=tokyonight)](https://github.com/fox3000foxy/theupsilongirl-cloudflare-pages) [![elixlens-site](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=elixlens-site&theme=tokyonight)](https://github.com/fox3000foxy/elixlens-site) [![StreamPage](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=StreamPage&theme=tokyonight)](https://github.com/fox3000foxy/StreamPage) [![StreamChat](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=StreamChat&theme=tokyonight)](https://github.com/fox3000foxy/StreamChat) [![panoramaViewer](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=panoramaViewer&theme=tokyonight)](https://github.com/fox3000foxy/panoramaViewer) [![foodexpress](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=foodexpress&theme=tokyonight)](https://github.com/fox3000foxy/foodexpress) [![personalemoji](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=personalemoji&theme=tokyonight)](https://github.com/fox3000foxy/personalemoji) [![ProjectDreamTeamTheory](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=ProjectDreamTeamTheory&theme=tokyonight)](https://github.com/fox3000foxy/ProjectDreamTeamTheory) [![DreamTeam](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=DreamTeam&theme=tokyonight)](https://github.com/fox3000foxy/DreamTeam)
-
-</div>
-
-<div align="center">
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="18" /> Tools & Utilities — 10 books</h3>
-
-<div align="center">
-
-[![vtuber-camera-javascript](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=vtuber-camera-javascript&theme=tokyonight)](https://github.com/fox3000foxy/vtuber-camera-javascript) [![Ts-Project-Maker](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Ts-Project-Maker&theme=tokyonight)](https://github.com/fox3000foxy/Ts-Project-Maker) [![express-honeypot-middleware](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=express-honeypot-middleware&theme=tokyonight)](https://github.com/fox3000foxy/express-honeypot-middleware) [![filelocker](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=filelocker&theme=tokyonight)](https://github.com/fox3000foxy/filelocker) [![node-api](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=node-api&theme=tokyonight)](https://github.com/fox3000foxy/node-api) [![APIPersonnesReactTypescript](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=APIPersonnesReactTypescript&theme=tokyonight)](https://github.com/fox3000foxy/APIPersonnesReactTypescript) [![subscriber-checker](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=subscriber-checker&theme=tokyonight)](https://github.com/fox3000foxy/subscriber-checker) [![WH2H](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=WH2H&theme=tokyonight)](https://github.com/fox3000foxy/WH2H) [![server-fs](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=server-fs&theme=tokyonight)](https://github.com/fox3000foxy/server-fs) [![cmdgame](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=cmdgame&theme=tokyonight)](https://github.com/fox3000foxy/cmdgame)
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  SHELF 4 — VPN, Audio & Experiments                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="18" /> VPN — 2 books</h3>
-
-<div align="center">
-
-[![FreeVPN](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=FreeVPN&theme=tokyonight)](https://github.com/fox3000foxy/FreeVPN) [![Free-VPN](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Free-VPN&theme=tokyonight)](https://github.com/fox3000foxy/Free-VPN)
-
-</div>
-
-<div align="center">
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="18" /> Audio — 3 books</h3>
-
-<div align="center">
-
-[![hatsunemiku-aimlchatbot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=hatsunemiku-aimlchatbot&theme=tokyonight)](https://github.com/fox3000foxy/hatsunemiku-aimlchatbot) [![Reclist-Gyroflex-FRA](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Reclist-Gyroflex-FRA&theme=tokyonight)](https://github.com/fox3000foxy/Reclist-Gyroflex-FRA) [![sheplays](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=sheplays&theme=tokyonight)](https://github.com/fox3000foxy/sheplays)
-
-</div>
-
-<div align="center">
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="18" /> Experiments — 14 books</h3>
-
-<div align="center">
-
-[![fake-block](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=fake-block&theme=tokyonight)](https://github.com/fox3000foxy/fake-block) [![totally-not-malware](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=totally-not-malware&theme=tokyonight)](https://github.com/fox3000foxy/totally-not-malware) [![Anime-Girls-Holding-Programming-Books](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Anime-Girls-Holding-Programming-Books&theme=tokyonight)](https://github.com/fox3000foxy/Anime-Girls-Holding-Programming-Books) [![Video-Pre-Training](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Video-Pre-Training&theme=tokyonight)](https://github.com/fox3000foxy/Video-Pre-Training) [![stochalt](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=stochalt&theme=tokyonight)](https://github.com/fox3000foxy/stochalt) [![Farmer](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Farmer&theme=tokyonight)](https://github.com/fox3000foxy/Farmer) [![test-repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=test-repo&theme=tokyonight)](https://github.com/fox3000foxy/test-repo) [![avatarException](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=avatarException&theme=tokyonight)](https://github.com/fox3000foxy/avatarException) [![FoxOS](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=FoxOS&theme=tokyonight)](https://github.com/fox3000foxy/FoxOS) [![they-were-here](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=they-were-here&theme=tokyonight)](https://github.com/fox3000foxy/they-were-here) [![chillgift](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=chillgift&theme=tokyonight)](https://github.com/fox3000foxy/chillgift) [![timeless-esports](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=timeless-esports&theme=tokyonight)](https://github.com/fox3000foxy/timeless-esports) [![flying-serv](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=flying-serv&theme=tokyonight)](https://github.com/fox3000foxy/flying-serv) [![online-mario-heroku](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=online-mario-heroku&theme=tokyonight)](https://github.com/fox3000foxy/online-mario-heroku)
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  BOTTOM SHELF — School                                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="18" /> School — 2 books</h3>
-
-<div align="center">
-
-[![3web-exercice-1](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=3web-exercice-1&theme=tokyonight)](https://github.com/fox3000foxy/3web-exercice-1) [![exercice-introduction-react](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=exercice-introduction-react&theme=tokyonight)](https://github.com/fox3000foxy/exercice-introduction-react)
-
-</div>
-<!-- </details> -->
-
-<!-- </td> -->
-<!-- </tr> -->
-<!-- </table> -->
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GISTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="16" /> &nbsp;My Gists
-</h2>
-
-<div align="center">
-
-| Gist                                                                                                   | Description                                                                            |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| [setup-ssh-signing.sh](https://gist.github.com/fox3000foxy/95500d129cd4bf5c173c323d2492569a)           | SSH commit signing setup script with key import/export and history re-signing controls |
-| [pokerManager.ts](https://gist.github.com/fox3000foxy/2007e7a0b4d22ed7d603cdcac02c0083)                | TypeScript poker manager snippet                                                       |
-| [key-sys.js](https://gist.github.com/fox3000foxy/a47adb4bfa347d89751897ab27cae1ec)                     | JavaScript key system utility                                                          |
-| [createProxy.js](https://gist.github.com/fox3000foxy/bded543ec13532af8ddc2de614b74055)                 | Proxy creation utility                                                                 |
-| [weights-api.ts](https://gist.github.com/fox3000foxy/74e70923ea9bff8455dd57dcc1464cbb)                 | Weights unofficial API TypeScript module                                               |
-| [buld-download-url.js](https://gist.github.com/fox3000foxy/e0606c9cfdd979589b6ff24b6692e1bc)           | Download URL builder utility                                                           |
-| [honeypotMiddleware.js](https://gist.github.com/fox3000foxy/3065173ab7bc4f34a7fb693611cfc5c2)          | Honeypot middleware for bot traffic filtering                                          |
-| [gistfile1.txt](https://gist.github.com/fox3000foxy/2a686153d959195141bf448d4c465546)                  | Short text gist                                                                        |
-| [Discord Experiments.js](https://gist.github.com/fox3000foxy/496077730d940eb933c2ff6d8ae62403)         | Discord experiments snippet                                                            |
-| [ruin_for_ai.py / ruin_move.py](https://gist.github.com/fox3000foxy/2d085403c7d403736308f86acc4011bd)  | Ruin project scripts                                                                   |
-| [project.py](https://gist.github.com/fox3000foxy/48a2d27fc65b65b9993600c4b46bffb6)                     | Python project gist                                                                    |
-| [eratz.py / main.py / mainpy.py](https://gist.github.com/fox3000foxy/fcbd41e9c3de584be1f9fd6e15134bb5) | Python multi-file gist                                                                 |
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
